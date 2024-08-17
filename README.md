@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">👋 My name is Bruno, I'm from São Paulo/Brazil.</h2>
+<h4 align="center">👋 My name is Bruno, I'm from São Paulo/Brazil.</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a Frontend developer  with a passion for creating intuitive and functional interfaces. With 3 years of experience in web development, I specialize in React and am always exploring new technologies to deliver innovative solutions.<br><br>🚀 What motivates me: Solving complex problems with clean and efficient code, collaborating with teams to build impactful digital experiences.<br><br>🎯 My current focus: I'm improving my skills in React and Node and I'm always looking for new challenges that allow me to grow as a developer.</p>
+<p align="left">🧍 I'm a web developer  with a passion for creating intuitive and functional interfaces. With 3 years of experience in web development, I specialize in React and am always exploring new technologies to deliver innovative solutions.<br><br>🚀 What motivates me: Solving complex problems with clean and efficient code, collaborating with teams to build impactful digital experiences.<br><br>🎯 My current focus: I'm improving my skills in React and Node and I'm always looking for new challenges that allow me to grow as a developer.</p>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="left">Infos</h2>
+<h2 align="left">My Journey</h2>
 
 ###
 
@@ -66,14 +66,10 @@
 
 ###
 
-<p align="center"></p>
+<h1 align="center"></h1>
 
 ###
 
-<img src="https://raw.githubusercontent.com/BrunoChapul/BrunoChapul/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="center">🤪 Have fun and call me for coffee ☕</h2>
+<h2 align="center">☕ Call me for coffee and let's contribute in a project!</h2>
 
 ###
