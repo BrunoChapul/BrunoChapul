@@ -1,8 +1,8 @@
-<h1 align="center">Hey! What's up?</h1>
+<h1 align="center">👋 Hey! What's up?</h1>
 
 ###
 
-<h4 align="center">👋 My name is Bruno, I'm from São Paulo/Brazil.</h4>
+<h4 align="center">My name is Bruno, I'm from São Paulo/Brazil.</h4>
 
 ###
 
